@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Nicholas Rodriguez
+  description: A simple role to install and configure dhcp for my Ansible lab
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+   - name: EL
+     versions:
+     - 8
+     - 7
+  galaxy_tags:
+     - dhcp
+     - dhcpd
+dependencies: []

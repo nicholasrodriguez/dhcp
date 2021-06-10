@@ -1,0 +1,8 @@
+---
+# vars file for dhcp
+authoritative: authoritative
+log_facility: local7
+ddns_updates: off
+default_lease_time: 1800
+min_lease_time: 180
+max_lease_time: 1800
